@@ -1,0 +1,19 @@
+#logo-navbar {
+    height: 90px;
+}
+
+.borde-test {
+    border: 1px solid black;
+}
+
+* {
+    transition: 1s;
+}
+
+#logo-navegacion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
